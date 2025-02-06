@@ -1,7 +1,12 @@
 ID,Tissue_Type,Batch,Region,Age,Tumor,Histology,Sex,MALDI,IMC
-#UKF248,C,1,frontal,44,C,Cortex,m,1,1
+#UKF260,T,5,temporal,81,IDH-WT,GBM,m,1,1
+#UKF255,T,5,temporal,81,IDH-WT,GBM,f,,
 #UKF248,T,1,frontal,44,IDH-WT,GBM,m,,
 #UKF243,T,1,frontal,55,IDH-WT,GBM,f,,
-#UKF242,C,1,frontal,81,C,Cortex,f,,
-#UKF242,T,1,frontal,81,IDH-WT,GBM,f,,
+#UKF275,T,6,frontal,80,IDH-WT,GBM,f,1,1
+#UKF269,T,6,occipital,51,IDH-WT,GBM,m,,
+#UKF262,T,5,temporal,59,IDH-WT,GBM,m,1,1
+#UKF304,T,9,temporal,81,IDH-WT,GBM,m,,
+#UKF313,T,10,temporal,57,IDH-WT,GBM,m,,
+#UKF334,T,10,frontal,73,IDH-WT,GBM,f,,
 #UKF241,C,1,temporal,19,C,Cortex,m,,
